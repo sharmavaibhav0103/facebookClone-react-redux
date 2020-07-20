@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://vaibhav:vaibhav123@cluster0.gmnry.mongodb.net/fakebook?retryWrites=true&w=majority",
+    "jwtSecret": "shiva"
+}
